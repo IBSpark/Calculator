@@ -23,11 +23,11 @@ A sleek, responsive calculator application built with **HTML, CSS, and JavaScrip
 
 ## 📸 Preview
 
-![Calculator App](calculator-preview.png)
+![Calculator App](Calculator-Preview.png)
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the calculator](https://ghazi829.github.io/Calculator/)
+👉 [Click here to try the calculator](https://IBSpark.github.io/Calculator/)
 
 ## 📁 Project Structure
 
@@ -73,12 +73,12 @@ calculator-app/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ghazi829/Calculator.git
+   git clone https://github.com/IBSpark/Calculator.git
    ```
 
 2. **Navigate to the directory**:
    ```bash
-   cd Calculator-App
+   cd Calculator
    ```
 
 3. **Open in browser**:
@@ -108,6 +108,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Developed with  by Pir Ghazi**
+**Developed with  by Ibad**
 
 *Creating simple solutions with elegant design* 🎯✨
